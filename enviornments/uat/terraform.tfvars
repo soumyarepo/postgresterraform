@@ -1,0 +1,6 @@
+resource_group_name = "uat-resource-group"
+location            = "East US"
+prefix              = "uat"
+admin_username      = "uatadmin"
+admin_password      = "UatCompl3xP@ssw0rd!"
+database_name       = "uatdb"

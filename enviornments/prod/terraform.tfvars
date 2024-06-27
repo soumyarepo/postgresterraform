@@ -1,0 +1,6 @@
+resource_group_name = "prod-resource-group"
+location            = "East US"
+prefix              = "prod"
+admin_username      = "prodadmin"
+admin_password      = "ProdCompl3xP@ssw0rd!"
+database_name       = "proddb"
